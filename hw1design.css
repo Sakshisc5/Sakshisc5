@@ -1,0 +1,69 @@
+body {
+    background-image: url('pleasantbackground.webp');
+    background-size: cover;
+    font: sans-serif;
+    text-align: center;
+}
+
+body > img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 25% 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Hobbies{
+    text-align: left;
+    background-color: aliceblue;
+}
+.Education{
+    text-align: left;
+    background-color: lightgoldenrodyellow;
+}
+.Jobs{
+    text-align: left;
+    background-color: lightgray;
+}
+
+.mytable {
+    border: none;
+}
+tr:nth-child(odd) {
+    background-color: lightgrey;
+}
+
+.quote {
+    background-color: aquamarine;
+    font-size: larger;
+    border: 5px solid black;
+}
+.Youtube {
+    float: left;
+    width: 33.3%;
+    background-color: azure;
+}
+.Satrangi {
+    float: right;
+    width: 33.3%;
+    background-color: bisque;
+}
+.Depop {
+    float: right;
+    width: 33.3%;
+    background-color: lightcoral;
+}
+
+.LinkedIn {
+    background-color: lightgreen;
+}
+
+a:hover {
+    color: red;
+}
+
+span {
+    color: red;
+    font-weight: bold;
+}
