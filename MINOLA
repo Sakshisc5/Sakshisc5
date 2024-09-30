@@ -9,7 +9,7 @@
 <body>
 
     <div class="image-container">
-        <img src="your-image.png" alt="Moving PNG" class="animated-image">
+        <img src="alexLion.png" alt="Moving PNG" class="animated-image">
     </div>
 
 </body>
