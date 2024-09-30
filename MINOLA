@@ -1,4 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Move PNG with Keyframes</title>
+    <link rel="stylesheet" href="stylesMINOLA.css">
+</head>
+<body>
 
+    <div class="image-container">
+        <img src="your-image.png" alt="Moving PNG" class="animated-image">
+    </div>
+
+</body>
 </html>
